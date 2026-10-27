@@ -26,16 +26,10 @@ Hệ thống Quản lý Nhân sự là ứng dụng Web Fullstack cho phép qu�
 
 ---
 ## 4. Link toàn bộ
-Link_GitHub
-https://github.com/vothingocy22-lgtm/237258_VoThiNgocY
-Link_Docker_Backend
-https://hub.docker.com/r/ngocy22/237258vothingocy-backend
-Link_Docker_Frontend
-https://hub.docker.com/r/ngocy22/237258vothingocy-frontend
-Link_Render_App
-https://web-237258vothingocy.onrender.com
-Link_Render_API
-https://api-237258vothingocy.onrender.com/api/employees
-Link_Data_MongoDB ( phải bắt đầu bằng mongodb:// hoặc mongodb+srv://)
-mongodb+srv://vothingocy22_db_user:VejKPiT0RiV3crXh@cluster0.drzzvie.mongodb.net/237258_VoThiNgocY?retryWrites=true&w=majority
+## Link_GitHub: https://github.com/vothingocy22-lgtm/237258_VoThiNgocY
+## Link_Docker_Backend: https://hub.docker.com/r/ngocy22/237258vothingocy-backend
+## Link_Docker_Frontend: https://hub.docker.com/r/ngocy22/237258vothingocy-frontend
+## Link_Render_App https://web-237258vothingocy.onrender.com
+## Link_Render_API https://api-237258vothingocy.onrender.com/api/employees
+## Link_Data_MongoDB :mongodb+srv://vothingocy22_db_user:VejKPiT0RiV3crXh@cluster0.drzzvie.mongodb.net/237258_VoThiNgocY?retryWrites=true&w=majority
 
