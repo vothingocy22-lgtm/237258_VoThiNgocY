@@ -1,6 +1,8 @@
+# HỆ THỐNG QUẢN LÝ NHÂN SỰ (237258_VoThiNgocY)
 
-## Câu 5: Docker Hub Repository
-- Backend Docker Image: https://hub.docker.com/r/ngocy22/237258vothingocy-backend
+## Câu 7: Triển khai Frontend lên Render
+- **Frontend Render URL:** https://web-237258vothingocy.onrender.com
 
-## Câu 6: Docker Hub Frontend Repository
-- Frontend Docker Image: https://hub.docker.com/r/ngocy22/237258vothingocy-frontend
+## Câu 8: Triển khai Backend API lên Render
+- **Backend Render URL:** https://api-237258vothingocy.onrender.com
+- **API Endpoint:** https://api-237258vothingocy.onrender.com/api/employees
